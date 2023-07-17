@@ -7,7 +7,7 @@
 
 
 ### About
-#### I enjoy coding on different projects, reading about the economy, digging into company financials, and watching the stock market using Fidelity Active Trader Pro. Please feel free to browser past and present projects and reachout via email, linkedin, or start a discussion. My resume is at the bottom of this page.
+#### I enjoy coding on different projects, reading about the economy, digging into company financials, watching the stock market, and messing around with my other 100 hobbies.
 
 
 ### Skills
