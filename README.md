@@ -33,9 +33,9 @@
 
 #### Coding Examples
 <ul>
-<li>[Python Finance Examples](https://github.com/btobin0/Python-Hedging-Trading.git)</li>
-<li>[SAS Examples](https://github.com/btobin0/SAS-Examples.git)</li>
-<li>[C++ Examples](https://github.com/btobin0/CPP-Examples.git)</li>
+<li>[Python Finance Examples]   (https://github.com/btobin0/Python-Hedging-Trading.git)</li>
+<li>[SAS Examples]              (https://github.com/btobin0/SAS-Examples.git)</li>
+<li>[C++ Examples]              (https://github.com/btobin0/CPP-Examples.git)</li>
 </ul>
 
 
