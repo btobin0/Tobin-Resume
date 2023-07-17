@@ -39,7 +39,5 @@
 </ul>
 
 
-### [Resume](https://github.com/btobin0/About/blob/main/2023_BrianTobin_Resume.docx)
-
 <br></br>
 
